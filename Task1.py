@@ -387,4 +387,4 @@ with models_tab:
 # Footer
 # --------------------------------------------
 st.markdown("---")
-st.markdown("Created by Ali Mohamed - Mina Thabet - Berbara Romany - Abdelrahman Mahmoud :computer:")
+st.markdown("Created by Ali Mohamed - Snadeo Sameh - Mina Thabet - Berbara Romany - Abdelrahman Mahmoud :computer:")
