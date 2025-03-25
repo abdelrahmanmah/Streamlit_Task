@@ -16,7 +16,7 @@ import statsmodels.stats.outliers_influence as oi
 # --------------------------------------------
 # Constants & Configuration
 # --------------------------------------------
-DATA_PATH = r"E:\ERU\Level 3\S1\Data Analysis\Project\happy_clean.csv"  # Define the location of data
+DATA_PATH = "happy_clean.csv"  # Define the location of data
 
 # Set Streamlit app title and icon
 st.set_page_config(
